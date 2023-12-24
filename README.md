@@ -1,0 +1,1 @@
+Description: This project uses different classification models to classify whether NBA rookies are still active in the league after 5 years. I have used both parametric and non parametric models to do the classification. More information on the models and results can be found in the Final Write Up pdf. 
